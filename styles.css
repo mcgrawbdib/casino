@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+#casinoGame{
+    width: 500;
+    height: 300;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    background-color: rgba(95, 158, 160, 0.3);
+}
+#welcome{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
